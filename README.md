@@ -1,7 +1,5 @@
 # 🤖 InvoiceSync: Automated Invoice Processing API
 
-**Created By: Kamalesh Kumar S**
-
 InvoiceSync is a sophisticated, API-driven system designed to extract and structure data from PDF invoices. It leverages **Azure Document Intelligence** for high-accuracy OCR and **OpenAI's DeepSeek model** via OpenRouter for intelligent data formatting, seamlessly preparing data for ERP integration.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +37,3 @@ InvoiceSync employs a modular, cloud-native architecture for high performance an
 * **CORS**: `Flask-CORS` for cross-origin communication
 
 ---
-
-
-git clone <your-repository-url>
-cd invoicesync
